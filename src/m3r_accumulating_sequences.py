@@ -73,7 +73,7 @@ def build_list():
     sequence = []
     for k in range(10):
         sequence = sequence + [k ** 2]
-    
+
     print(sequence)
 
 
